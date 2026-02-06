@@ -50,7 +50,7 @@ def printList(node):
     node = node.next
   
   print("-> ".join(elements) if elements else "Empty List")
-
+  
 
 sol = Solution()
 
